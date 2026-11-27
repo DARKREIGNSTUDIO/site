@@ -1,0 +1,6 @@
+{
+  "name": "آرمین | توسعه‌دهنده بازی Unity / C#",
+  "description": "نمونه‌کارها، سیستم‌های گیم‌پلی و پروژه ترسناک داستان‌محور REWIND-80 از آرمین، توسعه‌دهنده مستقل بازی با Unity و C#.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
