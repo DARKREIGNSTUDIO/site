@@ -94,7 +94,7 @@ export interface HeroShowcaseItem {
 export const HERO_COLLAGE: HeroShowcaseItem[] = [
   // Atmospheric Depth-of-Field (Blurred Back Layer)
   {
-    src: '/assets/aistudio/REWIND-80__6__072eafc7.png',
+    src: '/site/assets/aistudio/REWIND-80__6__072eafc7.png',
     alt: 'REWIND-80 — راهرو و نور اضطراری',
     layer: 'back',
     style: {
@@ -107,7 +107,7 @@ export const HERO_COLLAGE: HeroShowcaseItem[] = [
     },
   },
   {
-    src: '/assets/projects/br3.jpg',
+    src: '/site/assets/projects/br3.jpg',
     alt: 'BACKROOMS — تعقیب و گریز محیطی',
     layer: 'back',
     style: {
@@ -120,7 +120,7 @@ export const HERO_COLLAGE: HeroShowcaseItem[] = [
     },
   },
   {
-    src: '/assets/projects/sg4.jpg',
+    src: '/site/assets/projects/sg4.jpg',
     alt: 'SKY GATE — کابین و آسمان شب',
     layer: 'back',
     style: {
@@ -134,7 +134,7 @@ export const HERO_COLLAGE: HeroShowcaseItem[] = [
   },
   // Crisp AAA Foreground Showcase Planes
   {
-    src: '/assets/aistudio/REWIND-80__2__ef07fa3c.png',
+    src: '/site/assets/aistudio/REWIND-80__2__ef07fa3c.png',
     alt: 'REWIND-80 — تونل و اتمسفر VHS',
     layer: 'front',
     badge: 'REWIND-80 · VHS HORROR',
@@ -148,7 +148,7 @@ export const HERO_COLLAGE: HeroShowcaseItem[] = [
     },
   },
   {
-    src: '/assets/projects/sg1.jpg',
+    src: '/site/assets/projects/sg1.jpg',
     alt: 'SKY GATE — پایگاه هوایی و برج مراقبت',
     layer: 'front',
     badge: 'SKY GATE · FLIGHT SIM',
@@ -162,7 +162,7 @@ export const HERO_COLLAGE: HeroShowcaseItem[] = [
     },
   },
   {
-    src: '/assets/aistudio/REWIND-80__1__79f9639a.png',
+    src: '/site/assets/aistudio/REWIND-80__1__79f9639a.png',
     alt: 'REWIND-80 — اتاق CRT و دیباگ نورپردازی',
     layer: 'front',
     badge: 'UNITY 6 · LIGHTING',
@@ -260,13 +260,13 @@ export const PROJECTS: ProjectItem[] = [
     d: 'پروژه فعلی من؛ یک بازی ترسناک داستان‌محور با ظاهر دوربین VHS. گیم‌پلی و داستان اصلی طراحی شده و توسعه مرحله‌به‌مرحله ادامه داره. تمرکز روی سیستم‌های تعاملی، روایت، اتمسفر، Audio و ساختار فنی قابل توسعه‌ست.',
     c: ['Gameplay', 'Interaction', 'Narrative', 'Audio', 'Atmosphere', 'Unity 6'],
     i: [
-      '/assets/aistudio/REWIND-80__2__ef07fa3c.png',
-      '/assets/projects/rw2.jpg',
-      '/assets/aistudio/REWIND-80__6__072eafc7.png',
-      '/assets/aistudio/REWIND-80__1__79f9639a.png',
-      '/assets/aistudio/REWIND-80__4__56a89d29.png',
-      '/assets/aistudio/REWIND-80__3__4a500630.png',
-      '/assets/aistudio/REWIND-80__5__a0c7bb9c.png',
+      '/site/assets/aistudio/REWIND-80__2__ef07fa3c.png',
+      '/site/assets/projects/rw2.jpg',
+      '/site/assets/aistudio/REWIND-80__6__072eafc7.png',
+      '/site/assets/aistudio/REWIND-80__1__79f9639a.png',
+      '/site/assets/aistudio/REWIND-80__4__56a89d29.png',
+      '/site/assets/aistudio/REWIND-80__3__4a500630.png',
+      '/site/assets/aistudio/REWIND-80__5__a0c7bb9c.png',
     ],
   },
   {
@@ -276,10 +276,10 @@ export const PROJECTS: ProjectItem[] = [
     d: 'شبیه‌ساز پرواز با تمرکز روی جنگنده برای مجموعه ورزشی توسکا در بندرعباس. ثبت‌نام خلبان، آموزش، مأموریت‌ها و Leaderboard توش در نظر گرفته شده و پروژه همچنان در حال توسعه‌ست.',
     c: ['Pilot Registration', 'Training', 'Missions', 'Leaderboard', 'Hangar'],
     i: [
-      '/assets/projects/sg1.jpg',
-      '/assets/projects/sg2.jpg',
-      '/assets/projects/sg3.jpg',
-      '/assets/projects/sg4.jpg',
+      '/site/assets/projects/sg1.jpg',
+      '/site/assets/projects/sg2.jpg',
+      '/site/assets/projects/sg3.jpg',
+      '/site/assets/projects/sg4.jpg',
     ],
   },
   {
@@ -289,10 +289,10 @@ export const PROJECTS: ProjectItem[] = [
     d: 'پروژه Horror با ساختار Backrooms و دو مرحله. تمرکز اصلی روی بهینه‌سازی شدید برای موبایل، رسیدن به کیفیت گرافیکی مناسب با Performance قابل قبول، Enemy Chase و تعاملات فیزیکی بود؛ از جمله Jump Scare با پرتاب صندلی مبتنی بر فیزیک.',
     c: ['Mobile Optimization', 'Enemy Chase', 'Physics', 'Jump Scare', 'Android'],
     i: [
-      '/assets/projects/br1.jpg',
-      '/assets/projects/br2.jpg',
-      '/assets/projects/br3.jpg',
-      '/assets/projects/br4.jpg',
+      '/site/assets/projects/br1.jpg',
+      '/site/assets/projects/br2.jpg',
+      '/site/assets/projects/br3.jpg',
+      '/site/assets/projects/br4.jpg',
     ],
   },
   {
@@ -303,11 +303,11 @@ export const PROJECTS: ProjectItem[] = [
     d: 'اولین پروژه 2D من؛ بازی موبایلی مبتنی بر صعود، افزایش تدریجی سرعت و جمع‌آوری آیتم. تجربه عملی ساخت گیم‌پلی موبایل رو باهاش به دست آوردم.',
     c: ['Coin', 'Unlock', 'Map Progression', 'Magnet', 'Daily Reward'],
     i: [
-      '/assets/projects/jj2.jpg',
-      '/assets/projects/jj4.jpg',
-      '/assets/projects/jj3.jpg',
-      '/assets/projects/jj1.jpg',
-      '/assets/projects/jj5.jpg',
+      '/site/assets/projects/jj2.jpg',
+      '/site/assets/projects/jj4.jpg',
+      '/site/assets/projects/jj3.jpg',
+      '/site/assets/projects/jj1.jpg',
+      '/site/assets/projects/jj5.jpg',
     ],
   },
   {
